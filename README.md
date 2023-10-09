@@ -1,2 +1,2 @@
 # ConfigTest
-GameSense Simple Config Syetem 
+ Simple Config Syetem 
